@@ -205,7 +205,7 @@
     "json" : false,
 
     "timestamp-field" : "timestamp",
-    "timestamp-format" : ["%Y-%m-%d %H:%M:%S UTC"],
+    "timestamp-format" : ["%Y-%m-%d %H:%M:%S %Z"],
     "level-field" : "level",
     "body-field" : "body",
     "opid-field" : "threadid",
